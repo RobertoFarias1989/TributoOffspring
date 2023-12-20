@@ -6,7 +6,7 @@
 ## 💻 Sobre o projeto
 
 
-Projeto desenvolvido com base no curso [Formação Front-end - HTML,CSS,Javascript,React e +](https://www.udemy.com/course/formacao-front-end-html-css-javascript-react-e/) do [Matheus Battisti](https://www.linkedin.com/in/matheusbattisti/) .
+Projeto desenvolvido com base no curso [Formação Front-end - HTML,CSS,Javascript,React e +](https://www.udemy.com/course/formacao-front-end-html-css-javascript-react-e/) do [Matheus Battisti](https://www.linkedin.com/in/matheusbattisti/) visando aplicar os conceitos iniciais de HTML e CSS.
 
 ---
 
