@@ -1,5 +1,5 @@
 # TributoOffspring
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RobertoFarias1989/DevLancheMania/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RobertoFarias1989/TributoOffspring/blob/main/LICENSE) 
 
 
 
